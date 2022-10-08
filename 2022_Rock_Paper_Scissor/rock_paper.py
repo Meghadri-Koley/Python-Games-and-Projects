@@ -1,7 +1,6 @@
 '''
 Author Niket Bachhawat
 Description : A classic game on Rock Paper And Scissors
-
 '''
 import random
 choices = ["Rock","Paper","Scissors"]
