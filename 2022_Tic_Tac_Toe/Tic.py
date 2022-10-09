@@ -2,7 +2,6 @@
 #Author: Niket Bachhawat
 #Description: A Python program for the classic tic-tac-toe game
 
-
 #Setting the board up!
 
 def display_board(board):
