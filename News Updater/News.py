@@ -21,10 +21,10 @@ def news():
             if(News[i] not in news):
                 news.append(News[i])
 
-    news=news[0:20]
+    news=news[0:10]
 
     newss=[]
-    print("\033[4mTODAY'S TOP 20 HEADLINES\033[0m")
+    print("\033[4mTODAY'S TOP 10 HEADLINES\033[0m")
     print()
 
     
