@@ -54,10 +54,10 @@ def winner(x,y):
     
     elif(x == "Scissors"):
         if(y == "Rock"):
-            print("Computer Won!")
+            print("COMPUTER WON!")
             
         else:
-            print("Player Won!")
+            print("PLAYER WON!")
 
 
 
