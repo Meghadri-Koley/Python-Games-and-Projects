@@ -7,8 +7,8 @@ Balloon Shooting Game is a game built using PyGame Module with Python.
 ## How to Install
 
 1. Create a ```python``` virtual environment. 
-2. Clone the repo ```git clone https://github.com/AdityaSeth777/Shooting Game.git``` or download the repository.
-3. Go to the cloned/downloaded directory ``` cd Game.py ``` 
+2. Clone the repo ```git clone https://github.com/AdityaSeth777/Python-Games-and-Projects.git``` or download the repository.
+3. Go to the cloned/downloaded directory ``` cd Shooting Game.py ``` 
 4. Run ``` pip3 install pygame ```
 5. And now you can run the example scripts or create your own scripts.  
 
