@@ -13,7 +13,7 @@ def guess(x):
             print("Sorry, guess again.Too high\n")
         count = count + 1
         
-    print(f"Yay, congrats. You have guessed the number {random_number} correctly\n In {count} attempts.\n")
+    print(f"Yayyy , Congrats. You have guessed the number {random_number} correctly\n In {count} attempts.\n")
 
 
 x = int(input("Enter any big number to play the game: "))
