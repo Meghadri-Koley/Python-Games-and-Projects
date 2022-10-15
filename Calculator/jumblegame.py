@@ -47,8 +47,8 @@ def check_win(player1, player2, p1score, p2score):
 # Function for playing the game.
 def play():
 	# enter player1 and player2 name
-	p1name = input("player 1, Please enter your name :")
-	p2name = input("Player 2 , Please enter your name: ")
+	p1name = input("Player 1, Please enter your name :")
+	p2name = input("Player 2 , Please enter your name : ")
 
 	# variable for counting score.
 	pp1 = 0
@@ -74,7 +74,7 @@ def play():
 			# player1 turn
 			print(p1name, 'Your Turn.')
 
-			ans = input("what is in your mind? ")
+			ans = input("What is in your mind? ")
 
 			# checking ans is equal to picked_word or not
 			if ans == picked_word:
