@@ -8,11 +8,11 @@ max_val = 6
 
 #the variable that stores the user’s decision
 
-roll_again = "yes"
+roll_again = "YES"
 
 #The dice roll loop if the user wants to continue
 
-while roll_again == "yes" or roll_again == "y":
+while roll_again == "YES" or roll_again == "Y":
 
 print("Dices rolling...")
 
@@ -28,4 +28,4 @@ print(random.randint(min_val, max_val))
 
 #Here the user enters yes or y to continue and any other input ends the program
 
-roll_again = input("Roll the Dices Again?")
+roll_again = input("Roll The Dices Again?")
