@@ -13,7 +13,7 @@ Balloon Shooting Game is a game built using PyGame Module with Python.
 5. And now you can run the example scripts or create your own scripts.  
 
 ## Usage
-To play the game, run ``` python3 game.py```
+To play the game, run ``` python3 Game.py```
 
 
 ## FAQ
