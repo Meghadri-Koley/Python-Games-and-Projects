@@ -17,4 +17,4 @@ python main.py
 ```
 
 ## Sample Output
-![Sample Output]()
+![Sample Output](https://github.com/sahil-s-246/Python-Games-and-Projects/blob/sahil-s-246-patch-2/Quizzer/Sample_Output.png)
