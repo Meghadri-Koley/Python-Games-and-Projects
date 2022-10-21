@@ -1,4 +1,4 @@
-# NUMBER GUESSING GAME :)
+# <img src="https://img.icons8.com/plumpy/50/000000/123--v1.png"/> NUMBER GUESSING GAME :)
 
 The world of maths helping the users by increasing the instincts of them by a cool game of guessing the number given by the user.
 
@@ -8,7 +8,9 @@ The world of maths helping the users by increasing the instincts of them by a co
 ### 3. Advantages
 ### 4. Sneak Peak
 
-## ALGORITHM :
+
+
+## <img src="https://img.icons8.com/color/20/000000/code.png"/> ALGORITHM :
 1. User inputs the upper bound of the range.
 
 2. The compiler generates a random integer between the range and stores it in a variable for future references.
@@ -21,7 +23,7 @@ The world of maths helping the users by increasing the instincts of them by a co
 
 6. And if the user guessed in a minimum number of guesses the user gets a " Yayy,Congrats.You have guessed the number(the number generated) correctly in the no of attempts." Output.
 
-## EXPLANATION:
+## <img src="https://img.icons8.com/material-rounded/20/000000/high-importance.png"/> EXPLANATION:
 1. If the user inputs the upper range,let's say from 1 to 50. And compiler selected 42 as the integer.
 
 2. And now the guessing game started. So, the half of 50 is 25. The user enters 25 as his/her first guess. This time compiler will show, "Sorry,guess again.Too low".  
@@ -44,7 +46,7 @@ This time the compiler shows the output,"Sorry,guess again.Too low".
 Yayy,Congrats. You have guessed the number 42 correctly  
 In 6 attempts.
 
-##ADVANTAGES:
+## <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/24/000000/external-advantage-alternative-medicine-flaticons-flat-flat-icons.png"/> ADVANTAGES:
 - To run this game no new modules are been required to be installed.
 
 - A simple terminal is only needed to play the game
@@ -53,9 +55,11 @@ In 6 attempts.
 
 - Increases Analytical skills of the user.
 
-## SNEAK PEEK:
-<img src="./Number Guessing By The User/guess.jpeg">
+<div align=center>  
+<img src="https://img.icons8.com/fluency/48/000000/python.png"/> 
+<img src="https://img.icons8.com/external-sbts2018-solid-sbts2018/48/000000/external-terminal-basic-ui-elements-2.4-sbts2018-solid-sbts2018.png"/>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/54/000000/external-analytics-resume-flaticons-lineal-color-flat-icons.png"/>
+</div>
 
-
-
-
+## <img src="https://img.icons8.com/ios-filled/18/000000/picture.png"/> SNEAK PEEK:
+![](guess.jpeg)
