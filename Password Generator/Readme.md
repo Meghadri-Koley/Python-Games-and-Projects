@@ -16,6 +16,9 @@ Having a weak password is not good for a system that demands high confidentialit
 ## Usage
 To generate a password, run ``` python3 Password_Generator.py```
 
+## Demo
+
+![](PGen.png)
 
 ## FAQ
 - How to stop the script? Ctrl+C (control+C for Mac) 
